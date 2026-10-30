@@ -1,0 +1,180 @@
+{
+  "version": 2,
+  "id": "20261014-213824-e75a4e",
+  "session": 10,
+  "name": "第 10 局",
+  "archivedAt": "2026-10-14T13:38:24.509Z",
+  "startedAt": "2026-10-14T13:38:15.699Z",
+  "endedAt": "2026-10-14T13:38:16.920Z",
+  "roomName": "命运轮盘 · 线下四色棋子",
+  "simSamples": 0,
+  "simCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "players": [
+    {
+      "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+      "name": "李",
+      "color": "blue",
+      "steps": 12,
+      "spinCount": 1,
+      "lastSpinAt": "2026-10-14T13:38:16.072Z",
+      "createdAt": "2026-09-30T15:08:13.089Z"
+    },
+    {
+      "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+      "name": "任",
+      "color": "blue",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-09-30T15:12:57.020Z"
+    },
+    {
+      "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+      "name": "肖",
+      "color": "yellow",
+      "steps": 1,
+      "spinCount": 1,
+      "lastSpinAt": "2026-10-14T13:38:15.699Z",
+      "createdAt": "2026-10-01T11:33:37.418Z"
+    },
+    {
+      "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+      "name": "Baba",
+      "color": "blue",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-01T11:34:07.777Z"
+    },
+    {
+      "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+      "name": "杨",
+      "color": "red",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-01T11:34:13.115Z"
+    },
+    {
+      "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+      "name": "雍",
+      "color": "red",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-01T11:35:21.081Z"
+    },
+    {
+      "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+      "name": "金",
+      "color": "red",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-01T13:09:17.499Z"
+    },
+    {
+      "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+      "name": "杨",
+      "color": "blue",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-06T13:15:18.314Z"
+    },
+    {
+      "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+      "name": "任",
+      "color": "green",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "createdAt": "2026-10-14T12:41:33.480Z"
+    },
+    {
+      "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+      "name": "杜",
+      "color": "red",
+      "steps": 7,
+      "spinCount": 1,
+      "lastSpinAt": "2026-10-14T13:38:16.920Z",
+      "createdAt": "2026-10-14T12:41:39.778Z"
+    }
+  ],
+  "spins": [
+    {
+      "id": "babf92e3-2116-466a-bae9-941dd9ded4bf",
+      "seq": 3,
+      "playerId": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+      "name": "杜",
+      "color": "red",
+      "num": 7,
+      "pocket": 19,
+      "steps": 7,
+      "source": "manual",
+      "at": "2026-10-14T13:38:16.920Z"
+    },
+    {
+      "id": "b0a673c5-a97e-4611-b3d4-29e54912dd3f",
+      "seq": 2,
+      "playerId": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+      "name": "李",
+      "color": "blue",
+      "num": 12,
+      "pocket": 11,
+      "steps": 12,
+      "source": "manual",
+      "at": "2026-10-14T13:38:16.072Z"
+    },
+    {
+      "id": "97fa3db6-9dab-4c89-8025-1ee346dda672",
+      "seq": 1,
+      "playerId": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+      "name": "肖",
+      "color": "yellow",
+      "num": 1,
+      "pocket": 25,
+      "steps": 1,
+      "source": "manual",
+      "at": "2026-10-14T13:38:15.699Z"
+    }
+  ]
+}

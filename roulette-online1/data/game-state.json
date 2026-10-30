@@ -1,0 +1,1529 @@
+{
+  "version": 2,
+  "roomName": "命运轮盘 · 线下四色棋子",
+  "updatedAt": "2026-10-23T13:56:30.489Z",
+  "players": [
+    {
+      "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+      "name": "李",
+      "color": "blue",
+      "token": "4743e2bb5bbd61db01a77389c8183f7ce5d6",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 7,
+      "lastSpinSteps": 7,
+      "lastSpinPocket": 7,
+      "createdAt": "2026-09-30T15:08:13.089Z",
+      "online": true
+    },
+    {
+      "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+      "name": "任",
+      "color": "green",
+      "token": "7e26400bf920d05207461e84dd9628d5fb89",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 5,
+      "lastSpinSteps": 5,
+      "lastSpinPocket": 17,
+      "createdAt": "2026-09-30T15:12:57.020Z",
+      "online": true
+    },
+    {
+      "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+      "name": "肖",
+      "color": "yellow",
+      "token": "606f1cc25710763c03ab4d2e243a6186e8b4",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 12,
+      "lastSpinSteps": 12,
+      "lastSpinPocket": 23,
+      "createdAt": "2026-10-01T11:33:37.418Z",
+      "online": true
+    },
+    {
+      "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+      "name": "Baba",
+      "color": "blue",
+      "token": "68c341190d60e9bb3f2b47a958d662cb77d4",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 1,
+      "lastSpinSteps": 1,
+      "lastSpinPocket": 13,
+      "createdAt": "2026-10-01T11:34:07.777Z",
+      "online": true
+    },
+    {
+      "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+      "name": "杨",
+      "color": "red",
+      "token": "a9e4de831547834f0e773b3154f16ebc5a93",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 8,
+      "lastSpinSteps": 8,
+      "lastSpinPocket": 8,
+      "createdAt": "2026-10-01T11:34:13.115Z",
+      "online": true
+    },
+    {
+      "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+      "name": "雍",
+      "color": "red",
+      "token": "ece22898b390bd0d62c8687750cc0bab20eb",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 10,
+      "lastSpinSteps": 10,
+      "lastSpinPocket": 10,
+      "createdAt": "2026-10-01T11:35:21.081Z",
+      "online": true
+    },
+    {
+      "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+      "name": "金",
+      "color": "red",
+      "token": "c7877a80441009ce1cf0b8d3b212fc798b74",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 2,
+      "lastSpinSteps": 2,
+      "lastSpinPocket": 2,
+      "createdAt": "2026-10-01T13:09:17.499Z",
+      "online": true
+    },
+    {
+      "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+      "name": "杨",
+      "color": "blue",
+      "token": "14e5ebf0d1db8215e50bd1dbe6066e758ea7",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 12,
+      "lastSpinSteps": 12,
+      "lastSpinPocket": 35,
+      "createdAt": "2026-10-06T13:15:18.314Z",
+      "online": true
+    },
+    {
+      "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+      "name": "任",
+      "color": "green",
+      "token": "587f4781a4f423951e2c8f97db78355ff543",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 5,
+      "lastSpinSteps": 5,
+      "lastSpinPocket": 29,
+      "createdAt": "2026-10-14T12:41:33.480Z",
+      "online": true
+    },
+    {
+      "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+      "name": "杜",
+      "color": "red",
+      "token": "878f73cf6c576c459ccf8c9523c0a5415d10",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 2,
+      "lastSpinSteps": 2,
+      "lastSpinPocket": 2,
+      "createdAt": "2026-10-14T12:41:39.778Z",
+      "online": true
+    },
+    {
+      "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+      "name": "雍俊",
+      "color": "red",
+      "token": "c4214a56e12d52fc5168c5a41c5989ec0114",
+      "steps": 0,
+      "spinCount": 0,
+      "lastSpinAt": null,
+      "lastSpinNum": 12,
+      "lastSpinSteps": 12,
+      "lastSpinPocket": 11,
+      "createdAt": "2026-10-16T12:31:59.876Z",
+      "online": true
+    }
+  ],
+  "spins": [],
+  "archives": [
+    {
+      "id": "20261023-215630-a6b86f",
+      "session": 18,
+      "name": "第 18 局",
+      "archivedAt": "2026-10-23T13:56:30.462Z",
+      "startedAt": "2026-10-23T11:54:44.411Z",
+      "endedAt": "2026-10-23T13:55:48.091Z",
+      "spinCount": 642,
+      "totalSteps": 3957,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 994,
+          "spinCount": 153
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 934,
+          "spinCount": 155
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 935,
+          "spinCount": 158
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 1094,
+          "spinCount": 176
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261023-195342-de3d8c",
+      "session": 17,
+      "name": "第 17 局",
+      "archivedAt": "2026-10-23T11:53:42.580Z",
+      "startedAt": "2026-10-23T11:25:37.650Z",
+      "endedAt": "2026-10-23T11:52:55.805Z",
+      "spinCount": 166,
+      "totalSteps": 1035,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 178,
+          "spinCount": 32
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "green",
+          "steps": 218,
+          "spinCount": 33
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 200,
+          "spinCount": 33
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 212,
+          "spinCount": 32
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 227,
+          "spinCount": 36
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261016-215802-409ba5",
+      "session": 16,
+      "name": "第 16 局",
+      "archivedAt": "2026-10-16T13:58:02.554Z",
+      "startedAt": "2026-10-16T13:24:13.198Z",
+      "endedAt": "2026-10-16T13:55:38.336Z",
+      "spinCount": 179,
+      "totalSteps": 1081,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 184,
+          "spinCount": 29
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 174,
+          "spinCount": 31
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "green",
+          "steps": 196,
+          "spinCount": 30
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 173,
+          "spinCount": 30
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 199,
+          "spinCount": 29
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 155,
+          "spinCount": 30
+        }
+      ]
+    },
+    {
+      "id": "20261016-212411-ec9457",
+      "session": 15,
+      "name": "第 15 局",
+      "archivedAt": "2026-10-16T13:24:11.998Z",
+      "startedAt": "2026-10-16T13:24:10.840Z",
+      "endedAt": "2026-10-16T13:24:10.840Z",
+      "spinCount": 1,
+      "totalSteps": 2,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 2,
+          "spinCount": 1
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261016-212407-9cf92e",
+      "session": 14,
+      "name": "第 14 局",
+      "archivedAt": "2026-10-16T13:24:07.961Z",
+      "startedAt": "2026-10-16T13:23:34.671Z",
+      "endedAt": "2026-10-16T13:23:56.710Z",
+      "spinCount": 6,
+      "totalSteps": 35,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 2,
+          "spinCount": 1
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 4,
+          "spinCount": 1
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "green",
+          "steps": 1,
+          "spinCount": 1
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 7,
+          "spinCount": 1
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 10,
+          "spinCount": 1
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 11,
+          "spinCount": 1
+        }
+      ]
+    },
+    {
+      "id": "20261016-212115-adbf2d",
+      "session": 13,
+      "name": "第 13 局",
+      "archivedAt": "2026-10-16T13:21:15.211Z",
+      "startedAt": "2026-10-16T12:31:41.824Z",
+      "endedAt": "2026-10-16T13:20:32.543Z",
+      "spinCount": 190,
+      "totalSteps": 1111,
+      "simSamples": 0,
+      "playerCount": 11,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 163,
+          "spinCount": 30
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 207,
+          "spinCount": 33
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "green",
+          "steps": 198,
+          "spinCount": 31
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 179,
+          "spinCount": 31
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 200,
+          "spinCount": 35
+        },
+        {
+          "id": "5e1da2ab-cb5a-44ff-9a67-734abf70153c",
+          "name": "雍俊",
+          "color": "red",
+          "steps": 164,
+          "spinCount": 30
+        }
+      ]
+    },
+    {
+      "id": "20261016-202934-36b6cf",
+      "session": 12,
+      "name": "第 12 局",
+      "archivedAt": "2026-10-16T12:29:34.102Z",
+      "startedAt": "2026-10-16T11:29:57.214Z",
+      "endedAt": "2026-10-16T12:27:43.985Z",
+      "spinCount": 312,
+      "totalSteps": 1925,
+      "simSamples": 0,
+      "playerCount": 10,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "green",
+          "steps": 450,
+          "spinCount": 77
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 508,
+          "spinCount": 78
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 482,
+          "spinCount": 77
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 485,
+          "spinCount": 80
+        }
+      ]
+    },
+    {
+      "id": "20261014-225947-093f0a",
+      "session": 11,
+      "name": "第 11 局",
+      "archivedAt": "2026-10-14T14:59:47.124Z",
+      "startedAt": "2026-10-14T13:38:31.644Z",
+      "endedAt": "2026-10-14T14:57:58.780Z",
+      "spinCount": 420,
+      "totalSteps": 2779,
+      "simSamples": 0,
+      "playerCount": 10,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 689,
+          "spinCount": 102
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 690,
+          "spinCount": 107
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 727,
+          "spinCount": 106
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 673,
+          "spinCount": 105
+        }
+      ]
+    },
+    {
+      "id": "20261014-213824-e75a4e",
+      "session": 10,
+      "name": "第 10 局",
+      "archivedAt": "2026-10-14T13:38:24.509Z",
+      "startedAt": "2026-10-14T13:38:15.699Z",
+      "endedAt": "2026-10-14T13:38:16.920Z",
+      "spinCount": 3,
+      "totalSteps": 20,
+      "simSamples": 0,
+      "playerCount": 10,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 12,
+          "spinCount": 1
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 1,
+          "spinCount": 1
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 7,
+          "spinCount": 1
+        }
+      ]
+    },
+    {
+      "id": "20261014-213704-8f9796",
+      "session": 9,
+      "name": "第 9 局",
+      "archivedAt": "2026-10-14T13:37:04.333Z",
+      "startedAt": "2026-10-14T12:42:04.760Z",
+      "endedAt": "2026-10-14T13:33:37.467Z",
+      "spinCount": 248,
+      "totalSteps": 1606,
+      "simSamples": 0,
+      "playerCount": 10,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 365,
+          "spinCount": 61
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 399,
+          "spinCount": 62
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 417,
+          "spinCount": 61
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 425,
+          "spinCount": 64
+        }
+      ]
+    },
+    {
+      "id": "20261014-204159-7a11ee",
+      "session": 8,
+      "name": "第 8 局",
+      "archivedAt": "2026-10-14T12:41:59.808Z",
+      "startedAt": "2026-10-06T13:15:01.708Z",
+      "endedAt": "2026-10-14T12:41:54.584Z",
+      "spinCount": 338,
+      "totalSteps": 2092,
+      "simSamples": 0,
+      "playerCount": 10,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "blue",
+          "steps": 9,
+          "spinCount": 2
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 565,
+          "spinCount": 90
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 534,
+          "spinCount": 82
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 495,
+          "spinCount": 82
+        },
+        {
+          "id": "17c53a8d-c74f-48bc-a4f8-b7a05a0ce6b6",
+          "name": "杨",
+          "color": "blue",
+          "steps": 485,
+          "spinCount": 80
+        },
+        {
+          "id": "f3214693-8a19-49ea-bf23-d5c3bb02bbca",
+          "name": "任",
+          "color": "green",
+          "steps": 3,
+          "spinCount": 1
+        },
+        {
+          "id": "3b6b6817-c17b-44d6-87e0-1351ed748bce",
+          "name": "杜",
+          "color": "red",
+          "steps": 1,
+          "spinCount": 1
+        }
+      ]
+    },
+    {
+      "id": "20261005-210311-cf8a55",
+      "session": 7,
+      "name": "第 7 局",
+      "archivedAt": "2026-10-05T13:03:11.819Z",
+      "startedAt": "2026-10-05T12:33:50.149Z",
+      "endedAt": "2026-10-05T12:58:44.170Z",
+      "spinCount": 152,
+      "totalSteps": 1011,
+      "simSamples": 0,
+      "playerCount": 7,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "red",
+          "steps": 225,
+          "spinCount": 35
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 274,
+          "spinCount": 37
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 246,
+          "spinCount": 39
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 266,
+          "spinCount": 41
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261005-203318-19c92b",
+      "session": 6,
+      "name": "第 6 局",
+      "archivedAt": "2026-10-05T12:33:18.905Z",
+      "startedAt": "2026-10-05T12:32:57.125Z",
+      "endedAt": "2026-10-05T12:33:15.334Z",
+      "spinCount": 4,
+      "totalSteps": 26,
+      "simSamples": 0,
+      "playerCount": 7,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "red",
+          "steps": 4,
+          "spinCount": 1
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 3,
+          "spinCount": 1
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 7,
+          "spinCount": 1
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 12,
+          "spinCount": 1
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261005-203228-1e8246",
+      "session": 5,
+      "name": "第 5 局",
+      "archivedAt": "2026-10-05T12:32:28.639Z",
+      "startedAt": "2026-10-05T11:41:52.775Z",
+      "endedAt": "2026-10-05T12:30:45.336Z",
+      "spinCount": 252,
+      "totalSteps": 1565,
+      "simSamples": 0,
+      "playerCount": 7,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "李",
+          "color": "red",
+          "steps": 342,
+          "spinCount": 60
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "blue",
+          "steps": 418,
+          "spinCount": 62
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "yellow",
+          "steps": 402,
+          "spinCount": 66
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 403,
+          "spinCount": 64
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        }
+      ]
+    },
+    {
+      "id": "20261001-223738-1c1688",
+      "session": 4,
+      "name": "第 4 局",
+      "archivedAt": "2026-10-01T14:37:38.981Z",
+      "startedAt": "2026-10-01T13:09:58.998Z",
+      "endedAt": "2026-10-01T14:33:17.430Z",
+      "spinCount": 357,
+      "totalSteps": 2413,
+      "simSamples": 0,
+      "playerCount": 7,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "Li",
+          "color": "green",
+          "steps": 378,
+          "spinCount": 61
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "green",
+          "steps": 408,
+          "spinCount": 61
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "blue",
+          "steps": 419,
+          "spinCount": 61
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 419,
+          "spinCount": 60
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 0,
+          "spinCount": 0
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 408,
+          "spinCount": 58
+        },
+        {
+          "id": "4eeb73ce-6092-4dbf-b2cc-caf09c68b333",
+          "name": "金",
+          "color": "red",
+          "steps": 381,
+          "spinCount": 56
+        }
+      ]
+    },
+    {
+      "id": "20261001-210649-2568ea",
+      "session": 3,
+      "name": "第 3 局",
+      "archivedAt": "2026-10-01T13:06:49.483Z",
+      "startedAt": "2026-10-01T11:33:46.603Z",
+      "endedAt": "2026-10-01T13:04:23.925Z",
+      "spinCount": 351,
+      "totalSteps": 2240,
+      "simSamples": 0,
+      "playerCount": 6,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "Li",
+          "color": "green",
+          "steps": 398,
+          "spinCount": 58
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "任",
+          "color": "green",
+          "steps": 335,
+          "spinCount": 58
+        },
+        {
+          "id": "935e22c2-0e06-4b24-a2ca-93b5c37945d8",
+          "name": "肖",
+          "color": "blue",
+          "steps": 397,
+          "spinCount": 60
+        },
+        {
+          "id": "2fd9a7ce-8fd1-41b4-b52d-2cffbf73dce6",
+          "name": "Baba",
+          "color": "blue",
+          "steps": 353,
+          "spinCount": 58
+        },
+        {
+          "id": "0e26f920-d83a-44f9-889e-80ddd851170c",
+          "name": "杨",
+          "color": "red",
+          "steps": 404,
+          "spinCount": 59
+        },
+        {
+          "id": "53b4fee7-78b1-46f6-9554-88f28559549f",
+          "name": "雍",
+          "color": "red",
+          "steps": 353,
+          "spinCount": 58
+        }
+      ]
+    },
+    {
+      "id": "20261001-193211-f02c9e",
+      "session": 2,
+      "name": "第 2 局",
+      "archivedAt": "2026-10-01T11:32:11.162Z",
+      "startedAt": "2026-09-30T15:13:04.032Z",
+      "endedAt": "2026-09-30T15:14:16.877Z",
+      "spinCount": 8,
+      "totalSteps": 70,
+      "simSamples": 0,
+      "playerCount": 2,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "test",
+          "color": "red",
+          "steps": 33,
+          "spinCount": 3
+        },
+        {
+          "id": "55758d5d-c279-48a3-ab23-8aaed43ad432",
+          "name": "4",
+          "color": "green",
+          "steps": 37,
+          "spinCount": 5
+        }
+      ]
+    },
+    {
+      "id": "20260930-231109-1c5d35",
+      "session": 1,
+      "name": "第 1 局",
+      "archivedAt": "2026-09-30T15:11:09.687Z",
+      "startedAt": "2026-09-30T15:08:40.498Z",
+      "endedAt": "2026-09-30T15:10:06.837Z",
+      "spinCount": 5,
+      "totalSteps": 24,
+      "simSamples": 0,
+      "playerCount": 1,
+      "players": [
+        {
+          "id": "6ab1ba36-0aa4-41fe-b483-201c9b1efae9",
+          "name": "test",
+          "color": "red",
+          "steps": 24,
+          "spinCount": 5
+        }
+      ]
+    }
+  ],
+  "simSamples": 0,
+  "simCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "simTracks": {},
+  "simLog": []
+}
